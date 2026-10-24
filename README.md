@@ -8,8 +8,7 @@
 
 -------------------------------------------------------------------------------------------------------------------------------
 
-About Me
-
+## ** About Me**
 <p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1500&pause=800&color=39FF14&width=750&height=50&lines=%24+cat+about.txt" alt="Animated terminal command"/>
 </p>
@@ -23,8 +22,7 @@ Always Learning, Practicing & Improving
 ```
 ------------------------------------------------------------------------------------------------------------------------------ 
 
-Main Skills
-
+## ** Main Skills**
 **💻 Operating Systems & Development**
 
 <p align="left">
