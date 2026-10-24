@@ -6,21 +6,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=3000&pause=1200&color=00FF7F&center=true&vCenter=true&width=750&height=80&lines=Cybersecurity+%26+Penetration+Testing;Web+%26+Android+Application+Security;Network+Security+%26+Linux;Always+Learning+%26+Improving" alt="Animated introduction"/>
 </p>
 
----------------------------------------------------------------------------------------------------------------------------------
-## 👨‍💻 About Me
-
-I'm focused on penetration testing and application security, with an interest in understanding how applications work, identifying security weaknesses, and learning how to assess and fix them.
-
-I work with web application security concepts, including HTTP requests and responses, authentication, authorization, session management, and API security. I use Burp Suite to inspect application traffic and investigate potential vulnerabilities.
-
-I'm also interested in Android application security and static and dynamic analysis. I use tools such as JADX, MobSF, and Frida to examine application behavior and investigate security mechanisms.
-
-My networking background includes TCP/IP fundamentals, network traffic analysis, and service discovery using tools such as Wireshark and Nmap. I also use Linux environments and Docker for security labs and testing environments.
-
-I'm continuously improving my skills through hands-on practice, research, and security projects.
-
 ------------------------------------------------------------------------------------------------------------------------------
-### 🛠️ Main Skills
+Main Skills
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=linux,kali,python,bash,git,docker" alt="Linux, Kali Linux, Python, Bash, Git and Docker"/>
