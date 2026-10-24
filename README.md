@@ -1,5 +1,4 @@
-<h1 align="center">Hi, I'm Shayan !</h1>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00D9FF&height=120&section=header"/>
 
 
 <div align="center">
