@@ -21,7 +21,9 @@ Network Security & Linux
 Static Analysis & Reverse Engineering
 Always Learning, Practicing & Improving
 ```
------------------------------------------------------------------------------------------------------------------------------- Main Skills
+------------------------------------------------------------------------------------------------------------------------------ 
+
+Main Skills
 
 **💻 Operating Systems & Development**
 
