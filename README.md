@@ -1,50 +1,33 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00D9FF&height=120&section=header"/>
 
+<h1 align="center">Hi, I'm Shayan !</h1
 
-<div align="center">
-
-<table>
-<tr>
-<td>
-
-<div align="left">
-
-🔴 🟡 🟢 &nbsp; <b>shayan@kali: ~</b>
-
-</div>
-
-```bash
-┌──(shayan㉿kali)-[~]
-└─$ whoami
-shayan
-
-┌──(shayan㉿kali)-[~]
-└─$ cat about.txt
-Cybersecurity & Penetration Testing
-Web & Android Security
-Network Security & Linux
-Docker | Burp Suite | Frida | Nmap
-
-┌──(shayan㉿kali)-[~]
-└─$ echo "Always Learning"
-Always Learningmation" />
-</p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1500&color=00FF7F&center=true&vCenter=true&width=700&lines=Cybersecurity+%26+Penetration+Testing;Web+%26+Android+Application+Security;Network+Security+%7C+Linux;Burp+Suite+%7C+Frida+%7C+Wireshark+%7C+Nmap" alt="About me" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=3000&pause=1200&color=00FF7F&center=true&vCenter=true&width=750&height=80&lines=Cybersecurity+%26+Penetration+Testing;Web+%26+Android+Application+Security;Network+Security+%26+Linux;Always+Learning+%26+Improving" alt="Animated introduction"/>
 </p>
 
--------------------------------------------------------------------------------------------------------------------------------
-### Main Skills
+---------------------------------------------------------------------------------------------------------------------------------
+## 👨‍💻 About Me
+
+I'm focused on penetration testing and application security, with an interest in understanding how applications work, identifying security weaknesses, and learning how to assess and fix them.
+
+I work with web application security concepts, including HTTP requests and responses, authentication, authorization, session management, and API security. I use Burp Suite to inspect application traffic and investigate potential vulnerabilities.
+
+I'm also interested in Android application security and static and dynamic analysis. I use tools such as JADX, MobSF, and Frida to examine application behavior and investigate security mechanisms.
+
+My networking background includes TCP/IP fundamentals, network traffic analysis, and service discovery using tools such as Wireshark and Nmap. I also use Linux environments and Docker for security labs and testing environments.
+
+I'm continuously improving my skills through hands-on practice, research, and security projects.
+
+------------------------------------------------------------------------------------------------------------------------------
+### 🛠️ Main Skills
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,kali,python,bash,git,docker" />
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Frida-4B8BBE?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nmap-214478?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/JADX-2D2D2D?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/MobSF-5C6BC0?style=for-the-badge&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=linux,kali,python,bash,git,docker" alt="Linux, Kali Linux, Python, Bash, Git and Docker"/>
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white" alt="Burp Suite"/>
+  <img src="https://img.shields.io/badge/Frida-00AEEF?style=flat-square&logoColor=white" alt="Frida"/>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" alt="Wireshark"/>
+  <img src="https://img.shields.io/badge/Nmap-214478?style=flat-square&logoColor=white" alt="Nmap"/>
+  <img src="https://img.shields.io/badge/JADX-333333?style=flat-square&logoColor=white" alt="JADX"/>
+  <img src="https://img.shields.io/badge/MobSF-5C6BC0?style=flat-square&logoColor=white" alt="MobSF"/>
 </p>
