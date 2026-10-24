@@ -1,16 +1,39 @@
-## Hi there 👋
+## 📊 GitHub Stats
 
-<!--
-**shayanfa/shayanfa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Shayan
 
-Here are some ideas to get you started:
+### Cybersecurity | Network & Application Security
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm interested in cybersecurity, penetration testing, and application security.
+
+- 🔐 Web and Android application security
+- 🌐 Network security and penetration testing
+- 🐧 Linux and Kali Linux
+- 📱 Static and dynamic mobile application analysis
+- 🎓 CCNA fundamentals and networking
+
+### 🛠️ Tools & Technologies
+
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-orange?logo=burpsuite)
+![Frida](https://img.shields.io/badge/Frida-black?logo=frida)
+![Wireshark](https://img.shields.io/badge/Wireshark-blue?logo=wireshark)
+![Nmap](https://img.shields.io/badge/Nmap-darkblue)
+![Linux](https://img.shields.io/badge/Linux-black?logo=linux)
+![Git](https://img.shields.io/badge/Git-orange?logo=git)
+
+### 📚 Areas of Interest
+
+- Web Application Security
+- Android Security
+- Network Penetration Testing
+- API Security
+- Static Application Security Testing (SAST)
+
+### 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shayanfa&show_icons=true&theme=tokyonight)
+
+### 💻 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shayanfa&layout=compact&theme=tokyonight)
+
