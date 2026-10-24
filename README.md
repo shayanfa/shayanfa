@@ -6,8 +6,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=3000&pause=1200&color=00FF7F&center=true&vCenter=true&width=750&height=80&lines=Cybersecurity+%26+Penetration+Testing;Web+%26+Android+Application+Security;Network+Security+%26+Linux;Always+Learning+%26+Improving" alt="Animated introduction"/>
 </p>
 
-------------------------------------------------------------------------------------------------------------------------------
-## 🛠️ Main Skills
+-------------------------------------------------------------------------------------------------------------------------------
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=1500&color=00FF00&vCenter=true&width=750&height=80&lines=%24+cat+about.txt;Hi%2C+I'm+Shayan.;I'm+passionate+about+Cybersecurity.;I+enjoy+exploring+how+systems+and+applications+work.;I'm+interested+in+Web+%26+Android+Security.;I+love+learning+new+tools+and+solving+technical+challenges.;Always+learning%2C+practicing%2C+and+improving." alt="Animated About Me"/>
+</p>
+------------------------------------------------------------------------------------------------------------------------------ Main Skills
 
 **💻 Operating Systems & Development**
 
