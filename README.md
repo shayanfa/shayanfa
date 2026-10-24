@@ -2,8 +2,33 @@
 
 
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=700&height=180&lines=%24+whoami;Shayan;%24+cat+about.txt;Cybersecurity+%26+Penetration+Testing;%24+cat+skills.txt;Web+%26+Android+Security;Network+Security+%26+Linux;Burp+Suite+%7C+Frida+%7C+Wireshark+%7C+Nmap;%24+echo+%22Always+Learning%22;Always+Learning+%26+Improving" alt="Shayan Terminal Animation" />
+<div align="center">
+
+<table>
+<tr>
+<td>
+
+<div align="left">
+
+🔴 🟡 🟢 &nbsp; <b>shayan@kali: ~</b>
+
+</div>
+
+```bash
+┌──(shayan㉿kali)-[~]
+└─$ whoami
+shayan
+
+┌──(shayan㉿kali)-[~]
+└─$ cat about.txt
+Cybersecurity & Penetration Testing
+Web & Android Security
+Network Security & Linux
+Docker | Burp Suite | Frida | Nmap
+
+┌──(shayan㉿kali)-[~]
+└─$ echo "Always Learning"
+Always Learningmation" />
 </p>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1500&color=00FF7F&center=true&vCenter=true&width=700&lines=Cybersecurity+%26+Penetration+Testing;Web+%26+Android+Application+Security;Network+Security+%7C+Linux;Burp+Suite+%7C+Frida+%7C+Wireshark+%7C+Nmap" alt="About me" />
