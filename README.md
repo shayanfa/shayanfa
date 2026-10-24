@@ -7,9 +7,19 @@
 </p>
 
 -------------------------------------------------------------------------------------------------------------------------------
+## 👨‍💻 About Me
+
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=1500&color=00FF00&vCenter=true&width=750&height=80&lines=%24+cat+about.txt;Hi%2C+I'm+Shayan.;I'm+passionate+about+Cybersecurity.;I+enjoy+exploring+how+systems+and+applications+work.;I'm+interested+in+Web+%26+Android+Security.;I+love+learning+new+tools+and+solving+technical+challenges.;Always+learning%2C+practicing%2C+and+improving." alt="Animated About Me"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1800&pause=500&color=00FF00&vCenter=true&width=750&height=35&lines=%24+cat+about.txt" alt="About Me Terminal"/>
 </p>
+
+```text
+I'm passionate about Cybersecurity.
+I enjoy exploring how systems and applications work.
+I'm interested in Web & Android Security.
+I love learning new tools and solving technical challenges.
+Always learning, practicing, and improving.
+```
 ------------------------------------------------------------------------------------------------------------------------------ Main Skills
 
 **💻 Operating Systems & Development**
