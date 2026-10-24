@@ -6,18 +6,19 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=3000&pause=1200&color=00FF7F&center=true&vCenter=true&width=750&height=80&lines=Cybersecurity+%26+Penetration+Testing;Web+%26+Android+Application+Security;Network+Security+%26+Linux;Always+Learning+%26+Improving" alt="Animated introduction"/>
 </p>
 
--------------------------------------------------------------------------------------------------------------------------------
-## 👨‍💻 About Me
+-------------------------------------------------------------------------------------------------------------------------------About Me
+
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1500&pause=800&color=39FF14&width=750&height=50&lines=%24+cat+about.txt" alt="Animated terminal command"/>
+</p>
 
 ```text
-$ cat about.txt
-I'm passionate about Cybersecurity.
-I enjoy exploring how systems and applications work.
-I'm interested in Web & Android Security.
-I love learning new tools and solving technical challenges.
-Always learning, practicing, and improving.
+Cybersecurity & Penetration Testing
+Web & Android Application Security
+Network Security & Linux
+Static Analysis & Reverse Engineering
+Always Learning, Practicing & Improving
 ```
-
 ------------------------------------------------------------------------------------------------------------------------------ Main Skills
 
 **💻 Operating Systems & Development**
