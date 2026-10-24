@@ -8,7 +8,7 @@
 
 -------------------------------------------------------------------------------------------------------------------------------
 
-## ** About Me**
+## About Me
 <p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1500&pause=800&color=39FF14&width=750&height=50&lines=%24+cat+about.txt" alt="Animated terminal command"/>
 </p>
@@ -22,14 +22,14 @@ Always Learning, Practicing & Improving
 ```
 ------------------------------------------------------------------------------------------------------------------------------ 
 
-## ** Main Skills**
-**💻 Operating Systems & Development**
+## Main Skills
+💻 Operating Systems & Development
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=linux,kali,python,bash,git,docker" alt="Linux, Kali Linux, Python, Bash, Git and Docker"/>
 </p>
 
-**🌐 Web & Network Security**
+🌐 Web & Network Security
 
 <p align="left">
   <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white" alt="Burp Suite"/>
