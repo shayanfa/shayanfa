@@ -7,16 +7,26 @@
 </p>
 
 ------------------------------------------------------------------------------------------------------------------------------
-### 🛠️ Main Skills
+## 🛠️ Main Skills
 
-<div align="left">
-  
-```text
-🔴 🟢
-```
+**💻 Operating Systems & Development**
 
-</div>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux,kali,python,bash,git,docker" alt="Linux, Kali Linux, Python, Bash, Git and Docker"/>
+</p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=800&color=00FF00&vCenter=true&width=650&height=35&lines=%24+whoami;Shayan+-+Cybersecurity+Enthusiast;%24+cat+main-skills.txt;%5B%2B%5D+Web+Application+Security;%5B%2B%5D+Android+Application+Security;%5B%2B%5D+Network+Security;%5B%2B%5D+Linux+%7C+Kali+Linux;%5B%2B%5D+Burp+Suite+%7C+Frida;%5B%2B%5D+JADX+%7C+MobSF;%5B%2B%5D+Nmap+%7C+Wireshark;%24+echo+%22Always+Learning%22" alt="Main Skills Terminal"/>
+**🌐 Web & Network Security**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white" alt="Burp Suite"/>
+  <img src="https://img.shields.io/badge/Nmap-214478?style=flat-square&logoColor=white" alt="Nmap"/>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" alt="Wireshark"/>
+</p>
+
+**📱 Android Security & Analysis**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Frida-00AEEF?style=flat-square&logoColor=white" alt="Frida"/>
+  <img src="https://img.shields.io/badge/JADX-333333?style=flat-square&logoColor=white" alt="JADX"/>
+  <img src="https://img.shields.io/badge/MobSF-5C6BC0?style=flat-square&logoColor=white" alt="MobSF"/>
 </p>
